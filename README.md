@@ -33,7 +33,8 @@ An end-to-end, interactive machine learning dashboard that generates live, out-o
 1. Clone this repository.
 2. Install dependencies:
    pip install -r requirements.txt
-3. Run model_trainer.py file to train the model:
+3. Upload the [PJMW_Hourly Dataset](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption?select=PJMW_hourly.csv) to "dataset" folder
+4. Run the model_trainer.py file to train the model:
    python model_trainer.py
-4. Run the Streamlit application:
+5. Run the Streamlit application:
    streamlit run app.py
