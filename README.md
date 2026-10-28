@@ -38,15 +38,17 @@ Power grid operators face a continuous balancing act:
 ## Project Structure
 ```text
 ├── .streamlit/ 
-    └── config.toml             # Basic Configuration of streamlit
+    └── config.toml                          # Basic Configuration of streamlit
+├── assets/
+    └── forecast_architecture.png            # System Architecture
 ├── dataset/ 
-    └── PJMW_MW_Hourly          # Dataset for model training
-├── model/                      # Folder to store trained model 
-├── app.py                      # App logic
-├── model_trainer.py            # Model training code 
-├── utils.py                    # Frequently used functions
-├── requirements.txt            # Python dependencies
-└── README.md                   # Project documentation
+    └── PJMW_MW_Hourly                       # Dataset for model training
+├── model/                                   # Folder to store trained model 
+├── app.py                                   # App logic
+├── model_trainer.py                         # Model training code 
+├── utils.py                                 # Frequently used functions
+├── requirements.txt                         # Python dependencies
+└── README.md                                # Project documentation
 ```
 
 ## 🚀 Local Setup Instructions
