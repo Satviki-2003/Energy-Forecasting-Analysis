@@ -39,6 +39,8 @@ Power grid operators face a continuous balancing act:
 ```text
 ├── .streamlit/ 
     └── config.toml                          # Basic Configuration of streamlit
+├── Jupyter Notebook/
+    ├── Forecasting_Energy_Demand.ipynb      # Jupyter Notebook
 ├── assets/
     └── forecast_architecture.png            # System Architecture
 ├── dataset/ 
