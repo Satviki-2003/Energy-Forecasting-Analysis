@@ -2,6 +2,12 @@
 
 An end-to-end, interactive machine learning dashboard that generates live, out-of-sample energy demand forecasts for the PJM Western Region grid. Powered by a **SARIMAX** time-series model and built using **Streamlit**.
 
+## System Architecture 
+
+<div align="center">
+  <img src="assets/forecast_architecture.png" alt="PJMW Grid Forecasting System Architecture" width="100%"/>
+</div>
+
 ## 💡 Business Context & Ecosystem Impact
 
 ### The Core Problem
