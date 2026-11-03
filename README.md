@@ -8,6 +8,9 @@ An end-to-end, interactive machine learning dashboard that generates live, out-o
   <img src="assets/forecast_architecture.png" alt="PJMW Grid Forecasting System Architecture" width="100%"/>
 </div>
 
+## Demo Video
+![App Demo](/assets/Energy-Forecasting.gif)
+
 ## 💡 Business Context & Ecosystem Impact
 
 ### The Core Problem
