@@ -1,5 +1,11 @@
 # ⚡ PJMW Regional Grid: Predictive Load Forecasting Dashboard
 
+<p align="left">
+  <a href="https://time-series-forecasting-deployment-bsnecbsxuzxyhumrfxxrue.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=FF4B4B" alt="Streamlit Live Demo">
+  </a>
+</p>
+
 An end-to-end, interactive machine learning dashboard that generates live, out-of-sample energy demand forecasts for the PJM Western Region grid. Powered by a **SARIMAX** time-series model and built using **Streamlit**.
 
 ## System Architecture 
